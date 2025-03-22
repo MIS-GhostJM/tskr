@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "tskr",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2f1bc0d8-b388-49b9-bb45-05e70fbb94ca",
+      "database_name": "formsResponse"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
